@@ -10,6 +10,7 @@ from Kaggle and allows you to:
 3. Test it with labeled samples (predict_image.py)
 4. Load and classify any image from your
 computer (select_file.py)
+5. Added a UI with React and Typescript
 
 Currently, the model does at times produce false 
 positives; however it rarely does produce false 
